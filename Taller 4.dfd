@@ -1,0 +1,56 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+48
+'Estimado usuario, digite el valor de su compra'
+5
+1
+6
+VALOR 
+6
+1
+1
+a
+6
+100000
+7
+0
+1
+7
+VALOR>a
+6
+2
+9
+Descuento
+10
+VALOR*0.01
+5
+VALOR
+15
+VALOR-Descuento
+4
+1
+37
+'SU VALOR TOTAL A PAGAR ES DE', VALOR
+13
+6
+2
+9
+Descuento
+10
+VALOR*0.05
+5
+VALOR
+15
+VALOR-Descuento
+4
+1
+37
+'SU VALOR TOTAL A PAGAR ES DE', VALOR
+13
+1
