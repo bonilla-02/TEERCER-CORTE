@@ -1,0 +1,41 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+59
+'señor usuario, digite el numero de rifa de su preferencia'
+5
+1
+1
+N
+7
+0
+1
+13
+N>0 and N<100
+4
+1
+10
+'invalido'
+13
+7
+0
+1
+11
+N=7 or N=43
+4
+1
+8
+'perdio'
+13
+4
+1
+6
+'gano'
+13
+13
+1
